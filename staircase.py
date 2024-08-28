@@ -7,7 +7,7 @@ import re
 import sys
 
 #
-# Complete the 'staircase' function below.
+#  the 'staircase' function below.
 #
 # The function accepts INTEGER n as parameter.
 #
