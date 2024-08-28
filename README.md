@@ -1,1 +1,1 @@
-ha ha problem solving the most exciting and important skill for a programmer
+These are my solutions for problem solving questions on hackerrank .
